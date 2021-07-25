@@ -1,0 +1,25 @@
+body{
+    background-image: url(../img/Fondo\ hoja\ de\ Vida.jpg);
+}
+.rounded{
+    width: 15%;
+}
+.partedelantera{
+    display: flex;
+}
+.container{
+    width: 60%;
+}
+.titulo{
+    margin: 0 auto;
+}
+.informacion{
+    display: flex;
+}
+.datosexpericiencia{
+    flex-grow: 3;
+}
+.datospersonales{
+    flex-grow: 3;
+
+}
